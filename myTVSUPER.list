@@ -1,0 +1,20 @@
+# NAME: myTVSUPER
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2024-07-03 16:16:59
+# DOMAIN: 2
+# DOMAIN-KEYWORD: 2
+# DOMAIN-SUFFIX: 2
+# TOTAL: 6
+DOMAIN,mytvsuperlimited.hb.omtrdc.net
+DOMAIN,mytvsuperlimited.sc.omtrdc.net
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,tvb.com
+DOMAIN-SUFFIX,gvt1-cn.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,gvt5.com
+DOMAIN-SUFFIX,gvt6.com
+DOMAIN-SUFFIX,gvt7.com
+DOMAIN-SUFFIX,gvt9.com
+DOMAIN-KEYWORD,nowtv100
+DOMAIN-KEYWORD,rthklive
